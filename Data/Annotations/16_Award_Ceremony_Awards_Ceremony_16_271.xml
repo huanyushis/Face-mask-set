@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YOLO训练集1</folder>
+	<filename>16_Award_Ceremony_Awards_Ceremony_16_271.jpg</filename>
+	<path>D:\Files\YOLO训练集\YOLO训练集1\16_Award_Ceremony_Awards_Ceremony_16_271.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1326</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>143</ymin>
+			<xmax>602</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

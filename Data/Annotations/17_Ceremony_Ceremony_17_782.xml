@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YOLO训练集1</folder>
+	<filename>17_Ceremony_Ceremony_17_782.jpg</filename>
+	<path>D:\Files\YOLO训练集\YOLO训练集1\17_Ceremony_Ceremony_17_782.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>796</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>619</xmin>
+			<ymin>65</ymin>
+			<xmax>801</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

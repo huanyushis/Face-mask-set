@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>56_Voter_peoplevoting_56_842.jpg</filename>
+	<path>D:\x\照片\Annotation\2\56_Voter_peoplevoting_56_842.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1021</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>303</ymin>
+			<xmax>745</xmax>
+			<ymax>837</ymax>
+		</bndbox>
+	</object>
+</annotation>

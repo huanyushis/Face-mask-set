@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>test_00002823.jpg</filename>
+	<path>D:\x\照片\Annotation\2\test_00002823.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>617</width>
+		<height>716</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>255</ymin>
+			<xmax>497</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

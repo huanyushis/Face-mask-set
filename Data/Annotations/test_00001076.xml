@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>test_00001076.jpg</filename>
+	<path>E:\3\test_00001076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>210</width>
+		<height>172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>27</ymin>
+			<xmax>171</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

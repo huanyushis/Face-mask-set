@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>52_Photographers_photographertakingphoto_52_523.jpg</filename>
+	<path>D:\x\照片\Annotation\2\52_Photographers_photographertakingphoto_52_523.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>374</ymin>
+			<xmax>517</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>

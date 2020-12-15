@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YOLO训练集1</folder>
+	<filename>28_Sports_Fan_Sports_Fan_28_924.jpg</filename>
+	<path>D:\Files\YOLO训练集\YOLO训练集1\28_Sports_Fan_Sports_Fan_28_924.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>35</ymin>
+			<xmax>595</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

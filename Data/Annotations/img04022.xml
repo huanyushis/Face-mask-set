@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>img04022.jpg</filename>
+	<path>E:\3\img04022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>215</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>58</ymin>
+			<xmax>115</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

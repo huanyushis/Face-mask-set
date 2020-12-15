@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>61_Street_Battle_streetfight_61_724.jpg</filename>
+	<path>D:\x\照片\Annotation\2\61_Street_Battle_streetfight_61_724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>227</ymin>
+			<xmax>690</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>

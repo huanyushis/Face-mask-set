@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YOLO训练集1</folder>
+	<filename>test_00001798.jpg</filename>
+	<path>D:\Files\YOLO训练集\YOLO训练集1\test_00001798.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>796</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>180</ymin>
+			<xmax>611</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

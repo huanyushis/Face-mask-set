@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>51_Dresses_wearingdress_51_741.jpg</filename>
+	<path>D:\x\照片\Annotation\2\51_Dresses_wearingdress_51_741.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>246</ymin>
+			<xmax>643</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>

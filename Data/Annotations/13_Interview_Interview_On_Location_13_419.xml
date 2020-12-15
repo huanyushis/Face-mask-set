@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YOLO训练集1</folder>
+	<filename>13_Interview_Interview_On_Location_13_419.jpg</filename>
+	<path>D:\Files\YOLO训练集\YOLO训练集1\13_Interview_Interview_On_Location_13_419.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>781</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>54</ymin>
+			<xmax>435</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

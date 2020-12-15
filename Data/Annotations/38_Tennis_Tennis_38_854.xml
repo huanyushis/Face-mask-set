@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YOLO训练集1</folder>
+	<filename>38_Tennis_Tennis_38_854.jpg</filename>
+	<path>D:\Files\YOLO训练集\YOLO训练集1\38_Tennis_Tennis_38_854.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>351</ymin>
+			<xmax>601</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>

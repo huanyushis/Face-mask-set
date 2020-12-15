@@ -1,0 +1,26 @@
+<annotation>
+	<folder>YOLO训练集1</folder>
+	<filename>27_Spa_Spa_27_658.jpg</filename>
+	<path>D:\Files\YOLO训练集\YOLO训练集1\27_Spa_Spa_27_658.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>130</ymin>
+			<xmax>333</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

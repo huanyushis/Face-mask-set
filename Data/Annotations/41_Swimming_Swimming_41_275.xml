@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>41_Swimming_Swimming_41_275.jpg</filename>
+	<path>D:\x\照片\Annotation\2\41_Swimming_Swimming_41_275.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>679</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>315</ymin>
+			<xmax>603</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

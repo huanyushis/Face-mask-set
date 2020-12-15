@@ -1,0 +1,27 @@
+<annotation>
+  <folder>voc_wo</folder>
+  <filename>test_00004702</filename>
+  <path>D:\Soft_class\voc_wo\test_00004702.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>403</width>
+    <height>367</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <shape_type>RECT</shape_type>
+  <object>
+    <name>mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>61</xmin>
+      <ymin>88</ymin>
+      <xmax>263</xmax>
+      <ymax>244</ymax>
+    </bndbox>
+  </object>
+</annotation>
